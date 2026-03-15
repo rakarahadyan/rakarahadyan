@@ -1,104 +1,69 @@
+<h1 align="center">Hi there, I'm Raka Rahadyan 👋</h1>
+[cite_start]<h3 align="center">Full Stack Developer [cite: 2]</h3>
+
+<p align="center">
+  [cite_start]Saya adalah seorang Full Stack Developer dengan pengalaman lebih dari 2 tahun dalam membangun aplikasi web yang <i>scalable</i> untuk sektor industri dan korporat[cite: 2, 4]. [cite_start]Saat ini, saya sedang menempuh pendidikan S1 Teknik Informatika, dengan semangat besar untuk terus mengeksplorasi teknologi baru dan menerjemahkan kebutuhan bisnis menjadi solusi teknis yang optimal[cite: 8, 9, 55].
+</p>
+
+---
+
+### 👨‍💻 Tentang Saya
+- [cite_start]🔭 Saya telah berkontribusi pada lebih dari 10 aplikasi *production*, dengan fokus pada sistem operasional, platform pemantauan, dan *internal business tools*[cite: 5].
+- [cite_start]🌱 Keahlian utama saya meliputi pengembangan *backend* (membangun REST API), integrasi IoT untuk *real-time monitoring*, serta pengembangan *dashboard frontend*[cite: 6].
+- [cite_start]⚙️ Saya berpengalaman merancang arsitektur menggunakan pola *Monolith* maupun *Microservices*, menyesuaikan dengan kompleksitas proyek dan infrastruktur klien[cite: 20, 38].
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+[cite_start]**Frontend & Mobile** [cite: 11, 12]<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+[cite_start]**Backend** [cite: 13]<br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+[cite_start]**Database & Caching** [cite: 15, 21]<br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+[cite_start]**DevOps, Architecture & Tools** [cite: 19, 21]<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
 <div align="center">
-
-# Hey, I'm Raka Rahadyan 👋
-### Full Stack Developer · System Builder · IT Enthusiast
-
-*Bandung, West Java — crafting scalable web systems for industrial & corporate sectors*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raka-rahadyan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rakarahadyan.netlify.app/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakarahadyan177@gmail.com)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-Full Stack Developer with **2+ years of experience** building production-grade web applications across industrial and corporate sectors. I've shipped **10+ production apps** — from real-time IoT monitoring platforms to internal business systems — and I'm currently pursuing a Bachelor's in Informatics Engineering while leveling up as a developer.
-
-- 🏭 Built monitoring systems integrated with IoT devices via **MQTT & WebSocket**
-- ⚡ Improved application performance by up to **40%** through query optimization & caching
-- 🛠️ Comfortable in both **monolithic and microservices** architectures
-- 🤝 Experienced in translating business needs into clean, scalable technical solutions
+### 🚀 Highlight Proyek
+* [cite_start]**OTODUZ:** Solusi pemantauan kendaraan (*web* & *mobile*) yang terhubung langsung ke perangkat *onboard blackbox* via protokol MQTT dan Bluetooth[cite: 65, 67].
+* [cite_start]**AIROMARINE:** Platform *real-time monitoring* kapal laut dengan *dashboard* peta interaktif dan modul *Voyage Data Recorder*[cite: 74, 76, 77].
+* [cite_start]**HOST TO HOST CEISA 4.0:** Platform integrasi kustom (Ditjen Bea Cukai) untuk memfasilitasi pertukaran data yang mulus antara sistem internal dan sistem pemerintah[cite: 69, 72, 73].
+* [cite_start]**Sistem Manajemen Kargo:** Sistem *end-to-end* untuk perusahaan *freight forwarding*, melacak pengiriman dari penerimaan gudang hingga penyerahan akhir ke pelanggan[cite: 78, 80].
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Database & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 💼 Work Experience
-
-**Full Stack Developer** @ [Blueray Cargo International](https://blueraycargo.com) *(Oct 2025 – Feb 2026)*
-> Built and maintained 5+ full-stack apps with Django + Next.js serving 150+ employees. Implemented Redis caching, improved load speed by 20%, and maintained 99% uptime.
-
-**Full Stack Developer** @ PT Digital Mahakarya Abadi *(Jul 2023 – Aug 2025)*
-> Shipped 10+ industrial web monitoring apps. Designed REST APIs with 20+ endpoints, integrated MQTT for IoT devices, used RabbitMQ for async processing, improved performance by 40%.
-
-**Web Developer (Intern)** @ BBPPMVP BMTI *(Jul 2022 – Oct 2022)*
-> Built a full booking management platform from scratch using CodeIgniter 3 + MySQL, replacing manual processes and improving booking efficiency by 80%.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **OTODUZ** | Dual-platform (web + mobile) vehicle monitoring via MQTT & Bluetooth with fatigue detection and real-time dashboards | CodeIgniter, React Native, MySQL, MQTT |
-| **AIROMARINE** | Real-time vessel tracking platform with KML import, interactive maps, and Voyage Data Recorder playback | Go, Node.js, Next.js, PostgreSQL, InfluxDB |
-| **Admin Blueray Cargo** | End-to-end cargo management system covering full shipment workflow with automated monthly reporting | Django, PostgreSQL, MongoDB |
-| **Host-to-Host CEISA 4.0** | Custom integration platform extending the official Ditjen Bea Cukai system for internal operational needs | PHP, Django, MySQL |
-
----
-
-## 🎓 Education
-
-- 🎓 **S1 Informatics Engineering** — Universitas Teknologi Bandung *(2023–2027)* · GPA: 3.45/4.00
-- 📘 **Software Engineering** — SMKN 4 Padalarang *(2020–2023)*
-
----
-
-## 📜 Certifications
-
-- 🏅 TOEIC Reading & Listening — ETS Global
-- 🏅 BNSP Basic Programming, Web Programming, OOP
-- 🏅 Oracle Database Foundation — Oracle Academy
-
----
-
+### 📫 Mari Terhubung!
 <div align="center">
-
-*"I enjoy turning complex operational problems into clean, maintainable systems."*
-
+  [cite_start]<a href="mailto:rakarahadyan177@gmail.com [cite: 3]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="URL_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="URL_PORTFOLIO_KAMU"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
 </div>
