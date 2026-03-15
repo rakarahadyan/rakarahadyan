@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Raka Rahadyan 👋
-### Full Stack Developer · IoT Integrator · System Builder
+### Full Stack Developer · System Builder · IT Enthusiast
 
 *Bandung, West Java — crafting scalable web systems for industrial & corporate sectors*
 
