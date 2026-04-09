@@ -2,24 +2,24 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  Saya adalah seorang Full Stack Developer dengan pengalaman lebih dari 2 tahun dalam membangun sistem berskala produksi untuk lingkungan industri dan logistik[cite: 4].
-  Fokus saya mencakup pengembangan sistem ERP, platform SaaS, dan solusi <i>enterprise</i> kustom[cite: 5].
-  Saat ini, saya sedang menempuh pendidikan S1 Teknik Informatika untuk memperkuat fondasi akademis saya [cite: 9], dengan komitmen tinggi untuk menerjemahkan kebutuhan bisnis menjadi solusi teknis yang efisien[cite: 29].
+  I am a Full Stack Developer with over 2 years of experience building production-scale systems for industrial and logistics environments. 
+  I specialize in developing ERP systems, SaaS platforms, and custom-built enterprise solutions. 
+  Currently pursuing a Bachelor's degree in Informatics Engineering, I am dedicated to translating complex business requirements into efficient technical solutions.
 </p>
 
 ---
 
-### 👨‍💻 Tentang Saya
-- 🔭 Saya telah berkontribusi pada pengembangan sistem ERP internal [cite: 25] dan lebih dari 10 aplikasi pemantauan web untuk berbagai klien industri[cite: 35].
-- 🌱 Keahlian utama saya meliputi pengembangan <i>backend</i> (Python, PHP, Go), <i>frontend</i> modern (React, Next.js, Vue.js), dan aplikasi <i>mobile cross-platform</i> (React Native, Flutter)[cite: 6].
-- ⚙️ Saya berpengalaman merancang arsitektur menggunakan pola Monolith maupun Microservices [cite: 17], serta merancang sistem <i>event-driven</i> menggunakan Redis dan RabbitMQ[cite: 8].
-- 🚀 Saya berfokus pada optimasi performa dan stabilitas, seperti penggunaan <i>caching</i> untuk mengurangi beban <i>database</i> hingga 40% [cite: 26], dan memonitor <i>error</i> untuk menjaga stabilitas <i>uptime</i> sistem[cite: 27].
+### 👨‍💻 About Me
+- 🔭 I have contributed to the development of internal ERP systems and 10+ web monitoring applications for various industrial clients.
+- 🌱 My core expertise includes backend development (Python, PHP, Go), modern frontend frameworks (React, Next.js, Vue.js), and cross-platform mobile development (React Native, Flutter).
+- ⚙️ Experienced in designing Monolith and Microservices architectures, as well as implementing event-driven systems using Redis and RabbitMQ.
+- 🚀 Focused on performance optimization, such as implementing caching strategies that reduced database load by up to 40%, and maintaining high system uptime.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Mobile** [cite: 11, 12]<br>
+**Frontend & Mobile**<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -28,7 +28,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-**Backend** [cite: 13]<br>
+**Backend**<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -37,22 +37,21 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-**Database & Caching** [cite: 14, 18]<br>
+**Database & Caching**<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps, Architecture & Tools** [cite: 16, 17, 18]<br>
+**DevOps, Architecture & Tools**<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**AI Tools** [cite: 19]<br>
+**AI Tools**<br>
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
@@ -67,16 +66,16 @@
 
 ---
 
-### 🚀 Highlight Pengalaman & Proyek
+### 🚀 Experience & Project Highlights
 
-- **Blueray Cargo ERP System** — Mengembangkan dan memelihara 5+ aplikasi web internal berbasis Django dan React/Next.js untuk mengelola operasional bisnis inti yang digunakan oleh 150+ karyawan[cite: 25].
-- **Sistem Monitoring Kendaraan (PT Digital Mahakarya Abadi)** — Membangun aplikasi <i>mobile</i> menggunakan React Native untuk mengakuisisi data dari 10+ parameter sensor kendaraan via Bluetooth, serta menampilkan informasi dan peringatan keselamatan kepada pengemudi[cite: 38].
-- **Sistem Monitoring IoT Real-Time** — Membangun REST API dengan 20+ <i>endpoint</i> dan mengimplementasikan protokol MQTT untuk integrasi <i>seamless</i> dengan perangkat IoT[cite: 37].
-- **Wisma BMTI Booking Management** — Membangun platform manajemen <i>booking</i> kustom dengan PHP CodeIgniter 3 dan MySQL yang menggantikan proses manual dan meningkatkan efisiensi reservasi hingga 80%[cite: 44].
+- **Blueray Cargo ERP System** — Developed and maintained 5+ internal web applications using Django and React/Next.js to manage core business operations for 150+ employees.
+- **Vehicle Monitoring System (PT Digital Mahakarya Abadi)** — Built a mobile application using React Native to acquire data from 10+ vehicle sensor parameters via Bluetooth, providing real-time safety alerts and driver monitoring.
+- **Real-Time IoT Monitoring System** — Engineered REST APIs with 20+ endpoints and implemented MQTT protocols for seamless integration with IoT hardware.
+- **Wisma BMTI Booking Management** — Developed a custom booking platform using PHP CodeIgniter 3 and MySQL, replacing manual reservation processes and increasing booking efficiency by 80%.
 
 ---
 
-### 📫 Mari Terhubung!
+### 📫 Let's Connect!
 
 <div align="center">
   <a href="mailto:rakarahadyan177@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
